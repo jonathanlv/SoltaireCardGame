@@ -1,7 +1,6 @@
 # SoltaireCardGame
 A cardgame written in Java
-Java version:
-javac 12.0.2 
+Java version: javac 12.0.2 
 
 Hur är programmet organiserat i stort:
 Programmet innehåller 9 stycken klasser där framför allt klassen som representerar ett kort samt alla klasserna som representerar en korthög till stor del utgår från koden i Tim Budds program. Dessa klasser är dock modifierade och utvecklade så att nya funktionaliteter och attributer har kunnat adderas till programmet. Jag har lagt till klasserna CardPanel (som utökar JPanel) samt CardGame (som utvecklar JFrame) och innehåller programmets main-metod. 
